@@ -1,0 +1,56 @@
+.dark-background {
+    border: none;
+}
+
+.hero-logo {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+.hero-secondary {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.nav-link-div {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.hero-div {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: spece-between;
+    align-items: center;
+}
+
+.hero-main-div {
+    width: 35%;
+}
+
+.hero-main {
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: white;
+    font-weight: bolder;
+}
+
+.signup-btn {
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 25px;
+}
