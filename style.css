@@ -1,4 +1,4 @@
-.dark-background {
+.dark-background .signup-btn {
     border: none;
 }
 
@@ -53,4 +53,38 @@
     font-size: 16px;
     font-weight: bold;
     padding: 5px 25px;
+}
+
+.dark-background .hero-image {
+    width: 500px;
+}
+
+.brand-div {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+}
+
+
+.brand-div .pictures {
+    display: flex;
+    justify-content: space-around;
+}
+
+.brand-div .info-header {
+    margin: 0px auto;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: purple;
+}
+
+.illustration-img {
+    width: 200px;
 }
