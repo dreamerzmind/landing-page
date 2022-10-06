@@ -2,6 +2,10 @@
     border: none;
 }
 
+.dark-background {
+    background-color: #1f2937;
+  }
+
 .hero-logo {
     font-size: 24px;
     color: white;
