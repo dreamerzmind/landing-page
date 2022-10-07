@@ -54,6 +54,12 @@
     width: 35%;
 }
 
+}
+.hero-main-div p {
+  margin: 20px;
+  margin-left: 0px;
+}
+
 .hero-main {
     font-size: 48px;
     color: white;
@@ -217,4 +223,4 @@
     font-size: 48px;
     color: #f9faf8;
     font-weight: bolder;
-  }
+  }s
