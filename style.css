@@ -194,7 +194,7 @@ img {
 }
 
 .quote-background2 {
-  color: white;
+  color: blue;
   height: 400px;
   display: flex;
   align-items: center;
@@ -203,6 +203,8 @@ img {
 
 .quote-text2 {
   font-size: 36px;
+  font-style: italic;
   font-weight: bold;
   color: purple;
+  text-align: right;
 } 
