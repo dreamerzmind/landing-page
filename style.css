@@ -192,3 +192,13 @@ img {
 .quote-background {
   background-color: #e5e7eb;
 }
+
+.quote-background2 {
+  color: purple;
+}
+
+.quote-text2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+} 
