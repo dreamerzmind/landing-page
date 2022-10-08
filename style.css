@@ -201,4 +201,8 @@ img {
   font-size: 36px;
   font-weight: bold;
   color: white;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 } 
