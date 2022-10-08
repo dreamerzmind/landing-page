@@ -194,7 +194,7 @@ img {
 }
 
 .quote-background2 {
-  color: blue;
+  background-color: orange;
   height: 400px;
   display: flex;
   align-items: center;
